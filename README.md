@@ -7,3 +7,6 @@ You want to give your early supporters access to a whitelist for your collection
 # Requirements
 Whitelist access should be given to the first 10 users for free who want to get in.
 There should be a website where people can go and enter into the whitelist.
+
+# Try it out!
+https://white-list-dapp-bprakash14.vercel.app/
